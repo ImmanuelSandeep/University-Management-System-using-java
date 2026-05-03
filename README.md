@@ -1,4 +1,4 @@
-# university-management-system-java
+# University Management System Java
 > Note: This is a part of an academic project built using Netbeans 8.2 version, JDK 1.8 and the mysql-connector-j-8.2.0 jar file.
 A full-stack web application developed to manage and automate university operations, including student records, faculty management, authentication, academic tracking, and administrative workflows. Built using Java, MySQL, HTML, CSS, and JavaScript, this system provides a scalable and structured solution for handling institutional data with a responsive and user-friendly interface.
 ## H2 - Login Page
